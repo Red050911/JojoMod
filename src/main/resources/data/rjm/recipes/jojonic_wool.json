@@ -1,0 +1,14 @@
+{
+  "type": "rjm:jojonic",
+  "input": {
+    "item": "minecraft:white_wool"
+  },
+  "output": {
+    "item": "minecraft:brown_wool",
+    "count": 1
+  },
+  "byproduct": {
+    "item": "minecraft:redstone",
+    "count": 2
+  }
+}

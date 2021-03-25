@@ -1,0 +1,20 @@
+{
+  "item.rjm.jojo_food": "Jojo Food",
+  "item.rjm.disc_jojotune": "Music Disc",
+  "item.rjm.disc_jojotune.desc": "RedstoneBoy0509 - JojoTune",
+  "item.rjm.jojonic_sigil": "Jojonic Sigil",
+  "item.rjm.active_jojonic_sigil": "Jojonic Sigil (Active)",
+  "item.rjm.jojo_spawn_egg": "Jojo Spawn Egg",
+
+  "block.rjm.jojonic_table": "Jojonic Table",
+
+  "entity.rjm.jojo": "Jojo",
+
+  "biome.rjm.jojo_hills": "Jojo Hills",
+
+  "message.rjm.tame_jojo_self": "§6Congratulations! You just tamed a Jojo!",
+
+  "container.rjm.jojonic_table": "Jojonic Table",
+
+  "itemGroup.rjm": "JojoMod"
+}

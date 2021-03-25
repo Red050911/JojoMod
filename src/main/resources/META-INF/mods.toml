@@ -1,0 +1,37 @@
+modLoader = "javafml"
+
+loaderVersion = "[28,)"
+
+[[mods]]
+
+modId = "rjm"
+
+version = "1.0"
+
+displayName = "JojoMod"
+
+updateJSONURL="https://gist.githubusercontent.com/RedstoneBoy0509/242dc960a657bc1fff9fd37d02e06b7f/raw/568c244ae726d5a2625e86643f95eb0fb8ce416c/jojomod-version.json"
+
+#displayURL="http://example.com/"
+
+#logoFile="JojoMod.png"
+
+credits="Thanks for this mod goes to RedstoneBoy0509, the developer."
+
+authors = "RedstoneBoy0509"
+
+description = '''
+A mod to add Jojo to Minecraft! Created as a gift to TheStrider0321.
+'''
+[[dependencies.rjm]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.rjm]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

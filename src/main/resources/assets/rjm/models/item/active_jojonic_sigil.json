@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rjm:item/active_jojonic_sigil"
+  }
+}

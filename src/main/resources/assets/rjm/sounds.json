@@ -1,0 +1,12 @@
+{
+  "disc.jojotune": {
+    "category": "disc",
+    "subtitle": "JojoTune plays",
+    "sounds": [
+      {
+        "name": "rjm:disc/jojo_tune",
+        "stream": true
+      }
+    ]
+  }
+}

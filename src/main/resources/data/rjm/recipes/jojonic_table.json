@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RSR",
+    " R ",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:stone"
+    },
+    "S": {
+      "item": "rjm:active_jojonic_sigil"
+    }
+  },
+  "result": {
+    "item": "rjm:jojonic_table",
+    "count": 1
+  }
+}

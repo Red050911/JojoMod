@@ -1,0 +1,14 @@
+{
+  "type": "rjm:jojonic",
+  "input": {
+    "item": "minecraft:egg"
+  },
+  "output": {
+    "item": "rjm:jojo_spawn_egg",
+    "count": 1
+  },
+  "byproduct": {
+    "item": "minecraft:brown_wool",
+    "count": 1
+  }
+}

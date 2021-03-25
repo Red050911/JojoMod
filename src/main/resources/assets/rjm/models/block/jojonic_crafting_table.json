@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "rjm:block/jojonic_crafting_table_front",
+    "down": "block/gray_concrete",
+    "up": "rjm:block/jojonic_crafting_table_top",
+    "north": "rjm:block/jojonic_crafting_table_front",
+    "east": "rjm:block/jojonic_crafting_table_side",
+    "south": "rjm:block/jojonic_crafting_table_side",
+    "west": "rjm:block/jojonic_crafting_table_front"
+  }
+}
