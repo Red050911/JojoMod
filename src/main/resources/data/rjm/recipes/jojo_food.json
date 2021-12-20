@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "g": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "pattern": [
+    "g g",
+    " g ",
+    "g g"
+  ],
+  "result": {
+    "item": "rjm:jojo_food",
+    "count": 2
+  }
+}

@@ -7,6 +7,7 @@
   "item.rjm.jojo_spawn_egg": "Jojo Spawn Egg",
 
   "block.rjm.jojonic_table": "Jojonic Table",
+  "block.rjm.jojonic_crafting_table": "Jojonic Crafting Table",
 
   "entity.rjm.jojo": "Jojo",
 
@@ -15,6 +16,7 @@
   "message.rjm.tame_jojo_self": "§6Congratulations! You just tamed a Jojo!",
 
   "container.rjm.jojonic_table": "Jojonic Table",
+  "container.rjm.jojonic_crafting": "Jojonic Crafting Table",
 
   "itemGroup.rjm": "JojoMod"
 }
