@@ -1,0 +1,14 @@
+{
+  "type": "rjm:jojonic",
+  "input": {
+    "item": "minecraft:crafting_table"
+  },
+  "output": {
+    "item": "rjm:jojonic_crafting_table",
+    "count": 1
+  },
+  "byproduct": {
+    "item": "minecraft:oak_planks",
+    "count": 1
+  }
+}
