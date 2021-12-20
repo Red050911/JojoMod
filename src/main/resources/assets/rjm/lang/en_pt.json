@@ -7,6 +7,7 @@
   "item.rjm.jojo_spawn_egg": "Spawner of arr Jojo",
 
   "block.rjm.jojonic_table": "Scripture Tabl'",
+  "block.rjm.jojonic_crafting_table": "Ship's Grid Tabl'",
 
   "entity.rjm.jojo": "Jojo",
 
@@ -15,6 +16,7 @@
   "message.rjm.tame_jojo_self": "§6Shiver me Timbers! Ya tamed arr Jojo!",
 
   "container.rjm.jojonic_table": "Scripture Tabl'",
+  "container.rjm.jojonic_crafting": "Ship's Grid Tabl'",
 
   "itemGroup.rjm": "JojoMod"
 

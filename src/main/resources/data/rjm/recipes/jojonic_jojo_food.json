@@ -1,0 +1,17 @@
+{
+  "type": "rjm:jojonic_crafting",
+  "key": {
+    "a": {
+      "item": "minecraft:apple"
+    }
+  },
+  "pattern": [
+    "   ",
+    " a ",
+    "   "
+  ],
+  "result": {
+    "item": "rjm:jojo_food",
+    "count": 2
+  }
+}

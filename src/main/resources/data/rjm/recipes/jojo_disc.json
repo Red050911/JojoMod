@@ -1,0 +1,20 @@
+{
+  "type": "rjm:jojonic_crafting",
+  "key": {
+    "w": {
+      "item": "minecraft:white_concrete"
+    },
+    "b": {
+      "item": "minecraft:black_concrete"
+    }
+  },
+  "pattern": [
+    "bbb",
+    "bwb",
+    "bbb"
+  ],
+  "result": {
+    "item": "rjm:disc_jojotune",
+    "count": 1
+  }
+}
